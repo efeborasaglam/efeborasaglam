@@ -1,7 +1,7 @@
 [![Masterhead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://efebora.saglam.ch)
 <h1 align="center">Hi 👋, I'm Efe Bora Saglam</h1>
 <h3 align="center">A Application Developer in Switzerland</h3>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efeborasaglam&layout=compact&theme=radical)](https://github.com/efeborasaglam)
 
 
 - 🔭 I’m currently working on **E-Commerce Website**
